@@ -11,6 +11,8 @@
 - When user click button "+", the text should be increased to 1, and so on
 - When user click button "-", the text should be reduced to -1, and so on 
 
+![demo](https://raw.githubusercontent.com/twschool-full-stack-bootcamp/vue-counter-html-base/master/demo.gif)
+
 ##  Practice Output & Submit
 
 - Submit your git repo url to field `answer`

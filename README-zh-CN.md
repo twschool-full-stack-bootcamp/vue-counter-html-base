@@ -11,6 +11,9 @@
 - 点击 "+" 号按钮，数字标签应该加一，显示数字1，并以此类推
 - 点击 "-" 号按钮，数字标签应该减一，显示数字-1，并以此类推
 
+
+![demo](https://raw.githubusercontent.com/twschool-full-stack-bootcamp/vue-counter-html-base/master/demo.gif)
+
 ## 练习输出和结果提交
 
 - 提交你的仓库地址到 `answer` 字段
